@@ -1,0 +1,21 @@
+2023-12-18 06:54:57,224 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-12-18 06:54:58,134 - DEBUG - https://api.themoviedb.org:443 "GET /3/movie/123?api_key=417859de0f351192d3be63fffabf790e HTTP/1.1" 200 None
+2023-12-18 06:54:58,205 - INFO - Data inserted successfully
+2023-12-18 06:58:21,782 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-12-18 06:58:22,303 - DEBUG - https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=417859de0f351192d3be63fffabf790e&sort_by=popularity.desc HTTP/1.1" 200 None
+2023-12-18 06:58:22,309 - ERROR - Error during processing
+2023-12-18 06:58:22,310 - ERROR - strptime() argument 1 must be str, not None
+2023-12-18 06:59:23,212 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-12-18 06:59:23,563 - DEBUG - https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=417859de0f351192d3be63fffabf790e&sort_by=popularity.desc HTTP/1.1" 200 None
+2023-12-18 06:59:23,566 - ERROR - Error during processing
+2023-12-18 06:59:23,567 - ERROR - strptime() argument 1 must be str, not None
+2023-12-18 07:01:15,419 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-12-18 07:01:15,842 - DEBUG - https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=417859de0f351192d3be63fffabf790e&sort_by=popularity.desc HTTP/1.1" 200 None
+2023-12-18 07:01:15,847 - ERROR - Error during processing
+2023-12-18 07:01:15,848 - ERROR - strptime() argument 1 must be str, not None
+2023-12-18 07:02:53,009 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-12-18 07:02:53,427 - DEBUG - https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=417859de0f351192d3be63fffabf790e&sort_by=popularity.desc HTTP/1.1" 200 None
+2023-12-18 07:02:53,613 - INFO - Data inserted successfully
+2023-12-18 21:25:02,663 - DEBUG - Starting new HTTPS connection (1): api.themoviedb.org:443
+2023-12-18 21:25:04,176 - DEBUG - https://api.themoviedb.org:443 "GET /3/discover/movie?api_key=417859de0f351192d3be63fffabf790e&sort_by=popularity.desc HTTP/1.1" 200 None
+2023-12-18 21:25:08,772 - INFO - Data inserted successfully
